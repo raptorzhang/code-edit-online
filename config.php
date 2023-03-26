@@ -26,7 +26,7 @@ $restrict_to_home = false;
 $user = "raptor";
 		# login username
 
-$passwd = "314159";
+$passwd = "123456";
 		# Login password
 		
 $enable_login = true;
