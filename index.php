@@ -1,11 +1,5 @@
 <?php
 #---------------------------
-# PHP Navigator 4.12.12
-# dated: 20-07-2007
-# edited: 06-10-2008
-# Modified by: Paul Wratt,
-# Melbourne,Australia
-# web: phpnav.isource.net.nz
 #---------------------------
 
 @include_once("config.php");
