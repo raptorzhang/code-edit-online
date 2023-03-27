@@ -1,9 +1,5 @@
 <?php
-<<<<<<< HEAD
-#---------------------------
-#---------------------------
-=======
->>>>>>> 6969aca9e776f59a63937d3b6bbce31e10d28d60
+
 
 @include_once("config.php");
 @include_once("functions.php");
